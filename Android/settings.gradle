@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Ques1"
+include ':app'
+include ':ass1ques2'
+include ':assque3'
+include ':ass1ques3'
+include ':ass1ques4'
+include ':ass1ques5'
+include ':ass1ques6'
+include ':ass1ques7'
+include ':ass1wues8'
+include ':ass1ques9'
+include ':assig1ques8'
+include ':ass1ques10'
+include ':assigques1'
+include ':service_demo'

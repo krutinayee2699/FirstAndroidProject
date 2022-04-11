@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ass1ques10" />
+            <option value="$PROJECT_DIR$/ass1ques2" />
+            <option value="$PROJECT_DIR$/ass1ques3" />
+            <option value="$PROJECT_DIR$/ass1ques4" />
+            <option value="$PROJECT_DIR$/ass1ques5" />
+            <option value="$PROJECT_DIR$/ass1ques6" />
+            <option value="$PROJECT_DIR$/ass1ques7" />
+            <option value="$PROJECT_DIR$/ass1ques9" />
+            <option value="$PROJECT_DIR$/ass1wues8" />
+            <option value="$PROJECT_DIR$/assig1ques8" />
+            <option value="$PROJECT_DIR$/assigques1" />
+            <option value="$PROJECT_DIR$/assque3" />
+            <option value="$PROJECT_DIR$/service_demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_result" />
+            <option value="$PROJECT_DIR$/activitylifecycledemo" />
+            <option value="$PROJECT_DIR$/alert_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autocomplete_demo" />
+            <option value="$PROJECT_DIR$/calcactivity" />
+            <option value="$PROJECT_DIR$/dp_demo" />
+            <option value="$PROJECT_DIR$/emp_demo" />
+            <option value="$PROJECT_DIR$/intent_demo" />
+            <option value="$PROJECT_DIR$/practical1" />
+            <option value="$PROJECT_DIR$/q_6activity" />
+            <option value="$PROJECT_DIR$/spf_demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

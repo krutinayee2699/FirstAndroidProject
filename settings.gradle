@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FirstApp"
+include ':app'
+include ':intent_demo'
+include ':activity_result'
+include ':activitylifecycledemo'
+include ':spf_demo'
+include ':dp_demo'
+include ':alert_demo'
+include ':autocomplete_demo'
+include ':practical1'
+include ':emp_demo'
+include ':calcactivity'
+include ':q_6activity'
